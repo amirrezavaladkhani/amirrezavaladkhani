@@ -78,8 +78,8 @@ I don’t just write code — I try to understand systems, optimize logic, and d
 
 📫 Contact
 
-- GitHub: [your-github-link]
-- LinkedIn: [your-linkedin-link]
+* GitHub: [GitHub Profile](https://github.com/amirrezavaladkhani)
+* LinkedIn: [LinkedIn Profile](https://linkedin.com/in/amirreza-valadkhani-mc9509)
 
 ---
 
