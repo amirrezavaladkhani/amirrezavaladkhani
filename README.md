@@ -1,86 +1,158 @@
-👨‍💻 Amirreza Valadkhani
+# 👨‍💻 Amirreza Valadkhani
 
-🚀 Backend-focused developer with a growing obsession for JavaScript depth and scalable system design.
-
----
-
-🧠 About Me
-
-I'm a software developer focused on building modular, scalable, and maintainable systems.
-My core strength is in PHP, but I'm actively pushing toward mastering JavaScript at a deep level — from core concepts to architecture and performance.
-
-I don’t just write code — I try to understand systems, optimize logic, and design clean structures.
+🚀 Backend Developer focused on scalable architectures, modular systems, and deep JavaScript engineering.
 
 ---
 
-⚙️ Tech Stack
+# 🧠 About Me
 
-🧩 Backend
+I'm a backend-focused software developer passionate about building clean, maintainable, and production-ready systems.
 
-- PHP (Core, OOP)
+My journey started with PHP and ERP-based architectures, but over time I shifted heavily toward modern JavaScript ecosystems, backend engineering, and software architecture.
+
+I enjoy understanding how systems actually work under the hood — from request lifecycles and database optimization to async behavior, architecture patterns, and deployment pipelines.
+
+Currently focused on becoming a strong international-level backend engineer with real-world scalable project experience.
+
+---
+
+# ⚙️ Tech Stack
+
+## 🧩 Backend
+
+- Node.js
+- Express.js
+- PHP (Core PHP / OOP)
 - REST API Design
-- MVC Architecture
-- Modular Systems (ERP mindset)
+- Authentication & Authorization
+- Modular Architecture
+- MVC & Layered Architecture
+- Repository Pattern
+- Service Layer Pattern
 
-🗃️ Database
+---
+
+## 🗃️ Database
 
 - MySQL
+- PostgreSQL
+- Prisma ORM
+- Eloquent ORM
+- Sequelize ORM (Basic)
+- Database Design
 - Query Optimization
-- Data Modeling
+- Relational Data Modeling
 
-🌐 Frontend / JS (Growing Deep 🚧)
+---
+
+## 🌐 JavaScript & Architecture
 
 - JavaScript (ES6+)
-- DOM Manipulation
-- Async Programming (Promises, Async/Await)
+- Async Programming
+- Event Loop & JS Internals
+- Clean Code Principles
+- SOLID Principles
+- Design Patterns
+- Error Handling Strategies
+- Scalable Project Structure
+
+Currently diving deeper into:
+
+- System Design
+- Performance Optimization
 - Event-driven Architecture
-- Currently diving into:
-  - JS Internals (Execution Context, Closures, Event Loop)
-  - Design Patterns in JS
-  - Performance Optimization
+- Software Architecture Patterns
+- Scalable API Design
 
 ---
 
-🏗️ Current Focus
+## ⚡ DevOps & Workflow
 
-- 🔥 Building a custom PHP Framework
-- 🧱 Designing a modular ERP system
-- ⚡ Deep dive into JavaScript internals & architecture
-- 🧪 Writing cleaner, more maintainable code
-- 📈 Improving problem-solving & system design skills
-
----
-
-💼 Experience
-
-- 🏢 ERP Support & Network Assistance
-  Worked with real-world enterprise systems, debugging issues and understanding business logic.
-
-- 🛠️ Independent Development
-  Building personal projects with focus on architecture and scalability.
+- Git & GitHub
+- GitHub Actions (CI/CD)
+- Branch Protection & Workflow Strategy
+- Linux Basics
+- Nginx
+- Deployment Fundamentals
 
 ---
 
-🎯 Goals
+# 🏗️ Current Projects
 
-- Become a Senior Backend Engineer
-- Master JavaScript deeply (not just frameworks)
-- Build production-level scalable systems
-- Work internationally 🌍 (Germany / Canada in mind)
+## 🔥 Mini ERP System (Node.js)
 
----
+Building a modular ERP-style backend system using:
 
-📌 Philosophy
+- Express.js
+- Prisma ORM
+- Layered Architecture
+- Authentication System
+- Modular Services
+- RESTful APIs
+- Clean project structure
 
-«“I don't want to just use tools. I want to understand how they work.”»
-
----
-
-📫 Contact
-
-* GitHub: [GitHub Profile](https://github.com/amirrezavaladkhani)
-* LinkedIn: [LinkedIn Profile](https://linkedin.com/in/amirreza-valadkhani-mc9509)
+Focused on scalability, maintainability, and production-level architecture.
 
 ---
 
-⭐️ Always learning. Always building.
+## 🧱 Custom PHP Framework
+
+Building a lightweight modular PHP framework focused on:
+
+- MVC architecture
+- Service Container concepts
+- Routing systems
+- ORM integrations
+- Modular ERP-ready structure
+
+---
+
+# 💼 Experience
+
+## 🏢 ERP Support & Network Assistance
+
+Worked with enterprise ERP systems in real-world business environments:
+
+- Troubleshooting software & infrastructure issues
+- Understanding business workflows
+- Supporting users and operational systems
+- Gaining experience with enterprise logic
+
+---
+
+## 🛠️ Independent Development
+
+Developing personal backend projects with strong focus on:
+
+- Software architecture
+- Scalable structures
+- Maintainable codebases
+- Backend engineering concepts
+
+---
+
+# 🎯 Goals
+
+- Become a high-level Backend Engineer
+- Master JavaScript deeply beyond frameworks
+- Build scalable production-grade systems
+- Work internationally 🌍
+- Pursue backend engineering opportunities in the Netherlands 🇳🇱
+
+---
+
+# 📌 Philosophy
+
+> “I don't want to only use technologies.  
+> I want to understand how they work internally.”
+
+---
+
+# 📫 Contact
+
+- GitHub: [amirrezavaladkhani](https://github.com/amirrezavaladkhani)
+- LinkedIn: [Amirreza Valadkhani](https://linkedin.com/in/amirreza-valadkhani-mc9509)
+
+---
+
+⭐ Always learning. Always building.
