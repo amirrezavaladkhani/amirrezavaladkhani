@@ -1,158 +1,152 @@
-# 👨‍💻 Amirreza Valadkhani
+# Hi there 👋 I'm Amirreza Valadkhani
 
-🚀 Backend Developer focused on scalable architectures, modular systems, and deep JavaScript engineering.
+## Backend Developer | Software Architecture Enthusiast
 
----
-
-# 🧠 About Me
-
-I'm a backend-focused software developer passionate about building clean, maintainable, and production-ready systems.
-
-My journey started with PHP and ERP-based architectures, but over time I shifted heavily toward modern JavaScript ecosystems, backend engineering, and software architecture.
-
-I enjoy understanding how systems actually work under the hood — from request lifecycles and database optimization to async behavior, architecture patterns, and deployment pipelines.
-
-Currently focused on becoming a strong international-level backend engineer with real-world scalable project experience.
+I'm a backend developer passionate about building scalable, maintainable, and production-ready applications. I enjoy understanding how systems work under the hood and designing software with clean architecture and long-term maintainability in mind.
 
 ---
 
-# ⚙️ Tech Stack
+## 🚀 About Me
 
-## 🧩 Backend
+- 💻 Backend developer specializing in PHP and Node.js
+- 🏗️ Passionate about Software Architecture and Clean Code
+- 🔌 Experienced in designing RESTful APIs and modular systems
+- 🧩 Interested in scalable applications, performance optimization, and backend engineering
+- 📚 Constantly learning and exploring modern technologies and best practices
+- 🌍 Working toward an international software engineering career
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+- PHP
+- JavaScript (ES6+)
+- TypeScript
+- SQL
+
+### Backend
 
 - Node.js
 - Express.js
-- PHP (Core PHP / OOP)
-- REST API Design
+- REST API Development
 - Authentication & Authorization
-- Modular Architecture
-- MVC & Layered Architecture
+- MVC Architecture
+- Layered Architecture
 - Repository Pattern
 - Service Layer Pattern
+- Modular System Design
 
----
-
-## 🗃️ Database
+### Databases & ORM
 
 - MySQL
 - PostgreSQL
 - Prisma ORM
 - Eloquent ORM
-- Sequelize ORM (Basic)
+- Sequelize (Basic)
+
+### Software Engineering
+
+- SOLID Principles
+- Clean Code
+- Design Patterns
+- Async Programming
+- Event Loop Fundamentals
 - Database Design
 - Query Optimization
-- Relational Data Modeling
+- Error Handling Strategies
+
+### DevOps & Tools
+
+- Git
+- GitHub
+- GitHub Actions
+- CI/CD Fundamentals
+- Linux
+- Nginx
 
 ---
 
-## 🌐 JavaScript & Architecture
-
-- JavaScript (ES6+)
-- Async Programming
-- Event Loop & JS Internals
-- Clean Code Principles
-- SOLID Principles
-- Design Patterns
-- Error Handling Strategies
-- Scalable Project Structure
-
-Currently diving deeper into:
+## 📚 Currently Learning
 
 - System Design
+- Scalable Backend Architecture
 - Performance Optimization
-- Event-driven Architecture
-- Software Architecture Patterns
-- Scalable API Design
+- Event-Driven Architecture
+- Advanced TypeScript
+- Production-Ready API Design
 
 ---
 
-## ⚡ DevOps & Workflow
+## 🏗️ Featured Projects
 
-- Git & GitHub
-- GitHub Actions (CI/CD)
-- Branch Protection & Workflow Strategy
-- Linux Basics
-- Nginx
-- Deployment Fundamentals
+### 🔥 Mini ERP Backend
 
----
+Building a modular ERP backend with a focus on scalability and maintainability.
 
-# 🏗️ Current Projects
+**Technologies & Concepts**
 
-## 🔥 Mini ERP System (Node.js)
-
-Building a modular ERP-style backend system using:
-
+- Node.js
 - Express.js
 - Prisma ORM
 - Layered Architecture
 - Authentication System
-- Modular Services
 - RESTful APIs
-- Clean project structure
+- Modular Services
 
-Focused on scalability, maintainability, and production-level architecture.
+### 🧱 Custom PHP Framework
 
----
+Developing a lightweight PHP framework to deepen my understanding of backend internals.
 
-## 🧱 Custom PHP Framework
+Features include:
 
-Building a lightweight modular PHP framework focused on:
-
-- MVC architecture
-- Service Container concepts
-- Routing systems
-- ORM integrations
-- Modular ERP-ready structure
+- MVC Architecture
+- Routing System
+- ORM Integration
+- Service-Based Design
+- ERP-Oriented Modular Structure
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-## 🏢 ERP Support & Network Assistance
+### Enterprise ERP Support
 
-Worked with enterprise ERP systems in real-world business environments:
+Hands-on experience supporting enterprise ERP systems, troubleshooting software issues, and understanding real-world business workflows.
 
-- Troubleshooting software & infrastructure issues
-- Understanding business workflows
-- Supporting users and operational systems
-- Gaining experience with enterprise logic
+### Independent Backend Development
 
----
+Actively building personal projects with an emphasis on:
 
-## 🛠️ Independent Development
-
-Developing personal backend projects with strong focus on:
-
-- Software architecture
-- Scalable structures
-- Maintainable codebases
-- Backend engineering concepts
+- Software Architecture
+- Maintainable Codebases
+- Scalable Backend Systems
+- Modern Development Practices
 
 ---
 
-# 🎯 Goals
+## 🎯 Goals
 
-- Become a high-level Backend Engineer
-- Master JavaScript deeply beyond frameworks
-- Build scalable production-grade systems
-- Work internationally 🌍
-- Pursue backend engineering opportunities in the Netherlands 🇳🇱
-
----
-
-# 📌 Philosophy
-
-> “I don't want to only use technologies.  
-> I want to understand how they work internally.”
+- Become a world-class Backend Engineer
+- Master software architecture and system design
+- Build highly scalable production systems
+- Contribute to impactful engineering teams
+- Keep learning and sharing knowledge
 
 ---
 
-# 📫 Contact
+## 💡 Philosophy
 
-- GitHub: [amirrezavaladkhani](https://github.com/amirrezavaladkhani)
-- LinkedIn: [Amirreza Valadkhani](https://linkedin.com/in/amirreza-valadkhani-mc9509)
+> "I don't just want to use technologies—I want to understand how they work internally."
 
 ---
 
-⭐ Always learning. Always building.
+## 📫 Connect With Me
+
+- GitHub: **github.com/amirrezavaladkhani**
+- LinkedIn: **linkedin.com/in/amirreza-valadkhani-mc9509**
+
+---
+
+⭐ *Always learning. Always building. Always improving.*
