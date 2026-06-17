@@ -109,6 +109,7 @@ Building a lightweight PHP framework from scratch to gain a deeper understanding
 **Key Concepts**
 
 * MVC Architecture
+* Clean Architecture 
 * Routing Engine
 * ORM Integration
 * Service-Oriented Design
