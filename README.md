@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Amirreza Valadkhani
-
 ### Backend Developer • Software Architecture Enthusiast • Lifelong Learner
 
 I'm a backend developer passionate about designing **scalable**, **maintainable**, and **high-performance** applications. I enjoy building clean APIs, exploring software architecture, and understanding how systems work beyond the framework level.
