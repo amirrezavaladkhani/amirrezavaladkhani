@@ -1,3 +1,23 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Amirreza%20Valadkhani&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Software%20Architecture%20Enthusiast&descAlignY=58"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Software+Architecture+Enthusiast;Building+Scalable+Systems;Clean+Code+Advocate;Always+Learning"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/amirrezavaladkhani">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/amirreza-valadkhani-mc9509">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=amirrezavaladkhani&style=for-the-badge&color=0E75B6"/>
+</p>
+
+---
+
 ### Backend Developer • Software Architecture Enthusiast • Lifelong Learner
 
 I'm a backend developer passionate about building **scalable**, **maintainable**, and **high-performance** software.
