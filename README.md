@@ -1,196 +1,262 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Amirreza%20Valadkhani&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Software%20Architecture%20Enthusiast&descAlignY=58"/>
+# `> whoami`
+
+```text
+Amirreza Valadkhani
+Backend Engineer · Software Architecture
+Building business systems, APIs, and maintainable backend services.
+```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Software+Architecture+Enthusiast;Building+Scalable+Systems;Clean+Code+Advocate;Always+Learning"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1e3a5f&height=180&section=header&text=Amirreza%20Valadkhani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Software%20Architecture&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
   <a href="https://github.com/amirrezavaladkhani">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <a href="https://linkedin.com/in/amirreza-valadkhani-mc9509">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/amirreza-valadkhani-mc9509/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <img src="https://komarev.com/ghpvc/?username=amirrezavaladkhani&style=for-the-badge&color=0E75B6"/>
 </p>
 
 ---
 
-### Backend Developer • Software Architecture Enthusiast • Lifelong Learner
+## `> profile`
 
-I'm a backend developer passionate about building **scalable**, **maintainable**, and **high-performance** software.
+I'm a **Backend Engineer** focused on building reliable business applications, REST APIs, and maintainable backend systems.
 
-My primary interests lie in backend engineering, software architecture, API design, and creating systems that remain clean and extensible as they grow. I enjoy understanding how frameworks work internally and continuously improving my engineering skills through real-world projects.
+My main experience is around **PHP/Laravel, Node.js/Express, databases, Linux infrastructure, and CI/CD**.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Developer-blue" />
-  <img src="https://img.shields.io/badge/PHP-Lover-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-Enthusiast-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-%E2%9D%A4-red" />
-</p>
+I'm particularly interested in how software evolves beyond individual features — from code structure and API design to **architecture, scalability, maintainability, and deployment**.
 
----
-
-# 🚀 About Me
-
-- 💻 Backend developer specializing in **PHP**, **Node.js**, and modern backend technologies.
-- 🏗 Passionate about **Software Architecture**, **Clean Code**, and long-term maintainability.
-- 🔐 Experienced in designing authentication, authorization, and RESTful APIs.
-- 📦 Enjoy building modular systems using layered architecture and design patterns.
-- 📚 Constantly learning new technologies and software engineering best practices.
-- 🌍 Working toward an international software engineering career.
+```text
+Backend Engineering
+├── API Design
+├── Business Logic
+├── Database Design
+├── Authentication & Authorization
+├── Architecture
+└── Deployment & CI/CD
+```
 
 ---
 
-# 🛠 Tech Stack
+## `> tech_stack`
 
 ### Languages
 
-- PHP
-- JavaScript (ES6+)
-- TypeScript
-- SQL
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
 
 ### Backend
 
-- Node.js
-- Express.js
-- RESTful API Design
-- Authentication & Authorization (JWT)
-- MVC Architecture
-- Layered Architecture
-- Repository Pattern
-- Service Layer Pattern
-- Modular Application Design
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-111827?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+### Architecture & Engineering
+
+```text
+• MVC
+• Layered / 5-Layer Architecture
+• Modular Monolith
+• Clean Architecture principles
+• Repository & Service patterns
+• SOLID
+• Design Patterns
+• API Design
+• RBAC
+• JWT Authentication
+• Business Logic Design
+• Database Modeling
+```
 
 ### Databases
 
-- PostgreSQL
-- MySQL
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eloquent-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+</p>
 
-### ORMs
+### DevOps & Infrastructure
 
-- Prisma
-- Eloquent ORM
-- Sequelize (Basic)
-
-### Software Engineering
-
-- SOLID Principles
-- Clean Code
-- Design Patterns
-- Database Design
-- Query Optimization
-- Error Handling
-- Asynchronous Programming
-
-### DevOps & Tools
-
-- Git
-- GitHub
-- GitHub Actions
-- Docker
-- Linux
-- Nginx
-- CI/CD Fundamentals
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-111827?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
 
 ---
 
-# 📖 Currently Learning
+## `> what_i_build`
 
-I'm currently focusing on advancing my knowledge in:
+My backend work is mainly centered around **enterprise and business applications**.
 
-- System Design
-- Distributed Systems
-- Scalable Architecture
-- Performance Optimization
-- Event-Driven Architecture
-- Advanced TypeScript
-- Production-Ready Backend Development
+```text
+Enterprise Applications
+│
+├── RESTful APIs
+├── ERP Systems
+├── CRM Systems
+├── Authentication & Authorization
+├── Role-Based Access Control
+├── Business Workflows
+├── Database-Driven Applications
+└── Linux-based Deployments
+```
 
----
+I care about:
 
-# 🌟 Featured Projects
-
-## 🚀 Mini ERP Backend
-
-A production-oriented ERP backend designed with scalability and maintainability in mind.
-
-### Highlights
-
-- Express.js
-- Prisma ORM
-- PostgreSQL
-- JWT Authentication
-- Dynamic RBAC Authorization
-- Layered Architecture
-- Repository Pattern
-- Service Layer
-- Modular Design
+* Clear separation of responsibilities
+* Maintainable business logic
+* Predictable APIs
+* Database consistency
+* Authentication & authorization
+* Practical architecture
+* Deployment reliability
+* Code that remains understandable as the system grows
 
 ---
 
-## 🏗 Custom PHP Framework
+## `> featured_projects`
 
-Developing a lightweight PHP framework from scratch to deepen my understanding of backend internals and framework architecture.
+### Mini ERP Backend
 
-### Focus Areas
+**Node.js · Express · TypeScript · PostgreSQL · Prisma · Docker**
 
-- MVC Architecture
-- Clean Architecture
-- Routing Engine
-- ORM Integration
-- Dependency Injection
-- Service-Oriented Design
-- Modular ERP-Friendly Structure
+A backend-focused ERP project built around modular business logic and modern backend practices.
 
----
+**Focus areas:**
 
-# 💼 Experience
+```text
+API Design
+Authentication
+RBAC
+Validation
+Database Modeling
+Modular Architecture
+Docker
+TypeScript
+```
 
-## Enterprise ERP Support
-
-Worked in enterprise ERP environments, troubleshooting business-critical software issues, supporting end users, and gaining practical experience with large-scale business workflows.
-
-## Independent Backend Development
-
-Building personal backend projects focused on:
-
-- Scalable APIs
-- Software Architecture
-- Clean Code
-- Maintainable Systems
-- Modern Development Practices
+→ **Repository:**
+https://github.com/amirrezavaladkhani/MiniErpBackendExpressjs
 
 ---
 
-# 🎯 Career Goals
+### Custom PHP Framework
 
-- 🌍 Become a world-class Backend Engineer
-- 🏗 Master Software Architecture & System Design
-- ⚡ Build scalable production-grade systems
-- 🤝 Contribute to high-impact engineering teams
-- 📚 Never stop learning
+A personal implementation-oriented project for understanding the foundations behind PHP MVC applications and framework architecture.
 
----
+**Focus areas:**
 
-# 💭 Engineering Philosophy
-
-> **"Great software is not only functional—it is understandable, maintainable, scalable, and built to evolve."**
-
----
-
-# 📫 Connect With Me
-
-- 🐙 GitHub: **https://github.com/amirrezavaladkhani**
-- 💼 LinkedIn: **https://linkedin.com/in/amirreza-valadkhani-mc9509**
+```text
+MVC
+Routing
+Controllers
+Models
+Dependency Management
+Application Structure
+```
 
 ---
 
-<div align="center">
+## `> engineering_focus`
 
-### ⭐ Always Learning • Always Building • Always Improving
+Currently going deeper into:
 
-</div>
+```text
+┌──────────────────────────────────────┐
+│         CURRENT ENGINEERING          │
+├──────────────────────────────────────┤
+│ System Design                        │
+│ Domain-Driven Design (DDD)           │
+│ Advanced TypeScript                  │
+│ Modular Monoliths                    │
+│ Event-Driven Architecture            │
+│ Performance & Query Optimization     │
+│ Scalable Backend Systems              │
+│ Production Architecture              │
+└──────────────────────────────────────┘
+```
+
+The goal is not just to write more code.
+
+> **Understand the system → design the boundaries → implement the solution → operate it in production.**
+
+---
+
+## `> development_principles`
+
+```text
+01. Keep it understandable.
+02. Separate responsibilities.
+03. Design around business rules.
+04. Prefer explicit boundaries.
+05. Optimize when there is a reason.
+06. Automate repetitive operations.
+07. Learn from real systems.
+```
+
+---
+
+## `> github_stats`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amirrezavaladkhani&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirrezavaladkhani&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amirrezavaladkhani&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## `> contribution_graph`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirrezavaladkhani&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## `> contact`
+
+I'm interested in opportunities involving:
+
+```text
+Backend Engineering
+Software Architecture
+API Development
+Enterprise Systems
+Remote Engineering
+International Teams
+```
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amirreza-valadkhani-mc9509/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/amirrezavaladkhani">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Build systems. Understand systems. Improve systems.</sub>
+</p>
