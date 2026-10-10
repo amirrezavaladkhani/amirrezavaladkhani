@@ -187,7 +187,7 @@ Currently going deeper into:
 │ Modular Monoliths                    │
 │ Event-Driven Architecture            │
 │ Performance & Query Optimization     │
-│ Scalable Backend Systems              │
+│ Scalable Backend Systems             │
 │ Production Architecture              │
 └──────────────────────────────────────┘
 ```
@@ -221,14 +221,6 @@ The goal is not just to write more code.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=amirrezavaladkhani&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
-## `> contribution_graph`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirrezavaladkhani&theme=github-dark&hide_border=true" />
 </p>
 
 ---
